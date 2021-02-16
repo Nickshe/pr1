@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\dz1\bin\Debug\dz1.exe.config
+C:\Users\User\source\repos\dz1\bin\Debug\dz1.exe
+C:\Users\User\source\repos\dz1\bin\Debug\dz1.pdb
+C:\Users\User\source\repos\dz1\obj\Debug\dz1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dz1\obj\Debug\dz1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dz1\obj\Debug\dz1.exe
+C:\Users\User\source\repos\dz1\obj\Debug\dz1.pdb

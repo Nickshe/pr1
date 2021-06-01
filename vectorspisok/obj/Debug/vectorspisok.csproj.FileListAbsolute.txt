@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\vectorspisok\bin\Debug\vectorspisok.exe.config
+C:\Users\User\source\repos\vectorspisok\bin\Debug\vectorspisok.exe
+C:\Users\User\source\repos\vectorspisok\bin\Debug\vectorspisok.pdb
+C:\Users\User\source\repos\vectorspisok\obj\Debug\vectorspisok.csprojAssemblyReference.cache
+C:\Users\User\source\repos\vectorspisok\obj\Debug\vectorspisok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vectorspisok\obj\Debug\vectorspisok.exe
+C:\Users\User\source\repos\vectorspisok\obj\Debug\vectorspisok.pdb

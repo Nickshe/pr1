@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\calcul\bin\Debug\calcul.exe.config
-C:\Users\User\source\repos\calcul\bin\Debug\calcul.exe
-C:\Users\User\source\repos\calcul\bin\Debug\calcul.pdb
-C:\Users\User\source\repos\calcul\obj\Debug\calcul.csprojAssemblyReference.cache
-C:\Users\User\source\repos\calcul\obj\Debug\calcul.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\calcul\obj\Debug\calcul.exe
-C:\Users\User\source\repos\calcul\obj\Debug\calcul.pdb

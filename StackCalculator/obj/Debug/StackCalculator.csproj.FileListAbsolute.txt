@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\StackCalculator\bin\Debug\StackCalculator.exe.config
-C:\Users\User\source\repos\StackCalculator\bin\Debug\StackCalculator.exe
-C:\Users\User\source\repos\StackCalculator\bin\Debug\StackCalculator.pdb
-C:\Users\User\source\repos\StackCalculator\obj\Debug\StackCalculator.csprojAssemblyReference.cache
-C:\Users\User\source\repos\StackCalculator\obj\Debug\StackCalculator.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\StackCalculator\obj\Debug\StackCalculator.exe
-C:\Users\User\source\repos\StackCalculator\obj\Debug\StackCalculator.pdb
